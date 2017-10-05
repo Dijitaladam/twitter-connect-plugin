@@ -2,6 +2,7 @@
 2017-10-05
 1. Check session null. - Thanks to [@dinhha](https://github.com/dinhha/twitter-connect-plugin/commit/4c9eff054b2c762459e9153dbce9d4af465f1956)
 2. "account/verify_credentials" was added. - Thanks to [@enqinhlc](https://github.com/enqinhlc/twitter-connect-plugin/commit/ab6060ce735cc551a75c0696e95da60d53c66926)
+2. Check that Fabric is initialized on every execute call to avoid crash. - Thanks to [@danieka](https://github.com/danieka/twitter-connect-plugin/commit/db41cad0ae7d1e5540df66773e3d9a12ba806729)
 
 # twitter-connect-plugin
 Cordova/PhoneGap plugin to use Twitter Single Sign On
