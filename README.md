@@ -1,3 +1,7 @@
+# ChangeLog
+2017-10-05
+1. Check session null. - Thanks to [@dinhha](https://github.com/dinhha/twitter-connect-plugin/commit/4c9eff054b2c762459e9153dbce9d4af465f1956)
+
 # twitter-connect-plugin
 Cordova/PhoneGap plugin to use Twitter Single Sign On
 
